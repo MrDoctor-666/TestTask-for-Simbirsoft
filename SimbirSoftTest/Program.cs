@@ -18,6 +18,7 @@ namespace SimbirSoftTest
         {
             //if input file doesnt exist
             //work for simbirsoft.com
+            Console.WriteLine("Enter output file name: ");
             string outFileName = Console.ReadLine();
             if (!File.Exists(inFileName)) {
                 Console.WriteLine("File with such path doesn't exist, implimenting standart");
@@ -39,6 +40,7 @@ namespace SimbirSoftTest
                     Printer printer = new Printer();
                     printer.PrintToConsole(inf);
                     printer.PrintToFile(inf, outFileName);
+                    Console.WriteLine();
                 }
                 catch (Exception ex)
                 {

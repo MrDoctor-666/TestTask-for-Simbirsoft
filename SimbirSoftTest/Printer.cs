@@ -18,7 +18,11 @@ namespace SimbirSoftTest
             try
             {
                 using (StreamWriter sw = new StreamWriter(fileName, true))
+                {
+                    sw.WriteLine(site.siteUrl);
                     foreach (UniqWord word in wordsToPrint.words) sw.WriteLine(word.StringToPrint);
+                    sw.WriteLine("---------------");
+                }
             }
             catch (Exception ex)
             {
@@ -34,6 +38,7 @@ namespace SimbirSoftTest
             if (site.words == null) site.GetWords();
             WordCounter wordsToPrint = site.words;
             foreach (UniqWord word in wordsToPrint.words) Console.WriteLine(word.StringToPrint);
+            Console.WriteLine("--------------------");
         }
     }
 }

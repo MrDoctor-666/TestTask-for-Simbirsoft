@@ -10,7 +10,7 @@ namespace SimbirSoftTest
 {
     public class SiteInfo
     {
-        string siteUrl;
+        public string siteUrl { get; private set; }
         string fileFullName;
         public WordCounter words { get; private set; }
 
