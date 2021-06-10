@@ -1,0 +1,15 @@
+D:\C#\SimbirSoft\SimbirSoftTest\bin\Debug\netcoreapp3.1\SimbirSoftTest.exe
+D:\C#\SimbirSoft\SimbirSoftTest\bin\Debug\netcoreapp3.1\SimbirSoftTest.deps.json
+D:\C#\SimbirSoft\SimbirSoftTest\bin\Debug\netcoreapp3.1\SimbirSoftTest.runtimeconfig.json
+D:\C#\SimbirSoft\SimbirSoftTest\bin\Debug\netcoreapp3.1\SimbirSoftTest.runtimeconfig.dev.json
+D:\C#\SimbirSoft\SimbirSoftTest\bin\Debug\netcoreapp3.1\SimbirSoftTest.dll
+D:\C#\SimbirSoft\SimbirSoftTest\bin\Debug\netcoreapp3.1\SimbirSoftTest.pdb
+D:\C#\SimbirSoft\SimbirSoftTest\obj\Debug\netcoreapp3.1\SimbirSoftTest.csprojAssemblyReference.cache
+D:\C#\SimbirSoft\SimbirSoftTest\obj\Debug\netcoreapp3.1\SimbirSoftTest.AssemblyInfoInputs.cache
+D:\C#\SimbirSoft\SimbirSoftTest\obj\Debug\netcoreapp3.1\SimbirSoftTest.AssemblyInfo.cs
+D:\C#\SimbirSoft\SimbirSoftTest\obj\Debug\netcoreapp3.1\SimbirSoftTest.csproj.CoreCompileInputs.cache
+D:\C#\SimbirSoft\SimbirSoftTest\obj\Debug\netcoreapp3.1\SimbirSoftTest.dll
+D:\C#\SimbirSoft\SimbirSoftTest\obj\Debug\netcoreapp3.1\SimbirSoftTest.pdb
+D:\C#\SimbirSoft\SimbirSoftTest\obj\Debug\netcoreapp3.1\SimbirSoftTest.genruntimeconfig.cache
+D:\C#\SimbirSoft\SimbirSoftTest\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\C#\SimbirSoft\SimbirSoftTest\obj\Debug\netcoreapp3.1\SimbirSoftTest.csproj.CopyComplete
