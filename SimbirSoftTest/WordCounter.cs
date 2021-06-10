@@ -6,6 +6,7 @@ using System.Text;
 
 namespace SimbirSoftTest
 {
+    //keeping the unique word in site
     public class UniqWord
     {
         public string word { get; private set; }
@@ -28,7 +29,7 @@ namespace SimbirSoftTest
     public class WordCounter
     {
         string text;
-        public List<UniqWord> words { get; private set; }
+        public List<UniqWord> words { get; private set; } //keep in memory
         char[] toSplit = { ' ', ',', '.', '!', '?', '"', ';', ':', '[', ']', '(', ')', '\n', '\r', '\t' };
 
         public void Count(string text)

@@ -25,6 +25,7 @@ namespace SimbirSoftTest
 
         private bool IfCorrectUrl(string url)
         {
+            //starts with http:// or https://
             Regex regex = new Regex(@"^(http|http(s)?://)+([\w-]+\.)", RegexOptions.Compiled | RegexOptions.IgnoreCase);
             return regex.IsMatch(url);
         }

@@ -13,8 +13,11 @@ namespace SimbirSoftTest
             GetSitesFromFile();
         }
 
+        //type of input can be anyrhing, so i'll leave it simple
         public static void GetSitesFromFile(string inFileName = "sitesList.txt")
         {
+            //if input file doesnt exist
+            //work for simbirsoft.com
             string outFileName = Console.ReadLine();
             if (!File.Exists(inFileName)) {
                 Console.WriteLine("File with such path doesn't exist, implimenting standart");
